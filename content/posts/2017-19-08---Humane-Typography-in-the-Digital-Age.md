@@ -1,0 +1,49 @@
+---
+title:  First day
+date: "2019-08-06T22:40:32.169Z"
+template: "post"
+draft: false
+slug: "/posts/firstday/"
+category: "Wecode"
+tags:
+  - "code"
+  - "dowhatyoulike"
+  - "Web Development"
+description: "Javascript object"
+---
+
+
+    상당히 낯설다
+
+객체 (javascript)
+-가장 기초적인 자료형
+-자바스크립트에서 거의 모든 것은 객체
+-실제 세상에 존재하는 사물을 모델링한 것
+-기능과 속성을 가지고 있음
+
+1) 내장 객체
+-생성자가 작성 되어 있음
+-문자,수학,배열 등등
+
+예)
+
+수학 객체
+-Math.random()
+-Math.max()
+
+배열 객체
+-splice()
+-sort()
+-pop()
+-shift() / push(new data)
+-length
+
+2) 사용자 정의 객체
+-사용자가 생성자를 정의
+-사용자 정의 객체를 생성하려면 생성자라는 특별한 함수가 필요
+-객체의 속성에는 반드시 this를 붙임
+
+자바스크립트+제이쿼리 입문 저자 정인용
+웹프로그래밍 기초 저자 천인국
+
+   
