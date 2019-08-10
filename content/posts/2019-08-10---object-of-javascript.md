@@ -3,7 +3,7 @@ title: "Second day"
 date: "2019-08-09T22:12:03.284Z"
 template: "post"
 draft: false
-slug: "/posts/secondday/"
+slug: "/posts/thirdday/"
 category: "객체"
 tags:
   - "Object"
