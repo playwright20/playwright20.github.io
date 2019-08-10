@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://playwright20.github.io.git',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by kamsa',
+  subtitle: 'Front-end Developer',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,14 +25,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'kamsa',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'frontend developer',
     contacts: {
-      email: '#',
+      email: 'apollostk20@gmail.com',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'playwright20',
       rss: '#',
       vkontakte: '#'
     }
